@@ -80,3 +80,9 @@ This project enables **real-time environmental monitoring**, **infrastructure pl
 **Srinivasulu**  
 AI/ML Engineer | Nakshatech Pvt Ltd  
 Expert in Computer Vision, Geospatial AI, and Deep Learning.
+
+
+<img width="1873" height="1025" alt="o4" src="https://github.com/user-attachments/assets/4441b097-88d4-46db-8f1e-5bc2d91388f8" />
+<img width="1873" height="1025" alt="o4" src="https://github.com/user-attachments/assets/4af45c7c-5b0e-430f-b158-b691bc9b6029" />
+
+
