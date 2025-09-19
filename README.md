@@ -81,8 +81,11 @@ This project enables **real-time environmental monitoring**, **infrastructure pl
 AI/ML Engineer | Nakshatech Pvt Ltd  
 Expert in Computer Vision, Geospatial AI, and Deep Learning.
 
+<img width="1841" height="1020" alt="o2" src="https://github.com/user-attachments/assets/3e30dfab-de6d-4869-9624-3a74058951bc" />
+<img width="1889" height="1032" alt="o3" src="https://github.com/user-attachments/assets/da36b712-4769-4d32-9f12-39cbc06744f4" />
+
 
 <img width="1873" height="1025" alt="o4" src="https://github.com/user-attachments/assets/4441b097-88d4-46db-8f1e-5bc2d91388f8" />
-<img width="1873" height="1025" alt="o4" src="https://github.com/user-attachments/assets/4af45c7c-5b0e-430f-b158-b691bc9b6029" />
+
 
 
